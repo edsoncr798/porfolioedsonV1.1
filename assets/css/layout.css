@@ -1,0 +1,11 @@
+/* Grid */
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-top: 5vh; */
+}
+
+.col-6{
+    width: 50%;
+}
